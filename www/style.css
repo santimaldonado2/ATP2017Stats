@@ -1,0 +1,58 @@
+.section-title {
+	text-align: center;
+    margin-top: 0px; 
+    color: orange;
+    font-weight: bold;
+}
+
+.section-number {
+	text-align: center;
+    font-size: 3em;
+    color: orange;
+    font-weight: bold;
+}
+
+.subsection {
+    min-height: 5pc;
+}
+
+.subsection-title {
+	text-align: center;
+    font-size: 1.3em;
+    min-height: 2.5pc;
+}
+
+.subsection-number {
+	text-align: center;
+    font-size: 1.4em;
+}
+
+.section {
+	min-height: 23em
+}
+
+.main-title {
+	text-align: center;
+    font-weight: bold;
+    color: orange;
+    margin-bottom: 1em;
+}
+
+.player_img{
+	width: 60%;
+    text-align: center;
+    margin: 0em 3em;
+}
+
+.player_info_panel {
+	padding: 0
+}
+
+.player_info_subsection {
+	margin-top: 2.5em;
+}
+
+.item-title {
+	font-weight: bold;
+	color: orange;
+}
